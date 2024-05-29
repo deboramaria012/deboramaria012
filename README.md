@@ -2,9 +2,9 @@
   <h1>Olá! Eu sou a Debora 👋</h1>
   <img src="https://user-images.githubusercontent.com/84875067/203614217-183658f6-16c1-4f68-a985-9847e3a93b77.png" alt="Debora's Profile Picture" height="200px">
   
-  <p>🔭 Venho estudando Desenvolvimento Web e dominando suas tecnologias.</p>
-  <p>🧠 Conhecimento: HTML, CSS, JavaScript, Laravel, PHP React Native.</p>
-  <p>📚 Em constante aprendizado.</p>
+  <p>Olá! Eu sou a Debora, uma entusiasta do desenvolvimento web em constante busca por aprendizado e aprimoramento. Atualmente, estou focada em dominar as tecnologias fundamentais para construção de aplicações web, incluindo HTML, CSS, JavaScript e PHP. Estou empenhada em aprender sobre o desenvolvimento back-end e as possibilidades que o PHP oferece para a criação de aplicações dinâmicas e robustas.
+
+Além disso, estou estudando React para expandir meu conhecimento em desenvolvimento front-end e criar interfaces mais modernas e interativas.</p>
 </div>
 
 <div align="center">
