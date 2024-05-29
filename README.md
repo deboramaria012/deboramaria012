@@ -29,5 +29,5 @@ Além disso, estou estudando React para expandir meu conhecimento em desenvolvim
 </div>
 
 <div align="center">
-  <img src="https://github.com/deboramaria012/deboramaria012/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="https://github.com/deboramaria012/deboramaria012/blob/output/github-contribution-grid-snake.svg" 
 </div>
